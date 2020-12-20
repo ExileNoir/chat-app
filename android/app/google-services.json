@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099259848577",
+    "project_id": "flash-chat-166f9",
+    "storage_bucket": "flash-chat-166f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099259848577:android:5b83b123956cc69f12aa80",
+        "android_client_info": {
+          "package_name": "co.infernalWhaler.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099259848577-0tvhrflvd35m8064umkljvquttvhrm0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5LK69c0Dxj-6wEmRUw2uzHy0sndqfA2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099259848577-0tvhrflvd35m8064umkljvquttvhrm0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
